@@ -111,10 +111,10 @@ You might need to run this command before data annotation if you want to only gr
 
 ## Citation
 ```
-@misc{he2025scalabledatasynthesiscomputer,
-      title={Scalable Data Synthesis for Computer Use Agents with Step-Level Filtering}, 
+@misc{he2026webstarscalabledatasynthesis,
+      title={WebSTAR: Scalable Data Synthesis for Computer Use Agents with Step-Level Filtering}, 
       author={Yifei He and Pranit Chawla and Yaser Souri and Subhojit Som and Xia Song},
-      year={2025},
+      year={2026},
       eprint={2512.10962},
       archivePrefix={arXiv},
       primaryClass={cs.LG},
