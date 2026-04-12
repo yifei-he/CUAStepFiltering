@@ -15,6 +15,7 @@
 </p>
 
 ## News
+- [2026.4] WebSTAR is accepted at ACL 2026 Main Conference!
 - [2026.1] We have released our datasets WebSTAR.
 - [2025.12] Code and paper are released.
 
